@@ -19,7 +19,7 @@ Dynamic (explicit) FE analysis of the impact attenuator (crash energy absorber) 
 The deceleration-time history was extracted from the RADIOSS result file (.h3d) and post-processed in Excel to compute the average deceleration over the impact event.
 
 ## Files
-- `0527PigCow.h3d` — RADIOSS/HyperView simulation result file
+- `Result.h3d` — RADIOSS/HyperView simulation result file
 - `충격흡수장치.step` — Impact attenuator + frame assembly CAD model
 - `평균감속.xlsx` — Time-history deceleration data and average deceleration calculation
 - `정리_파일.docx` — Summary of key analysis results
