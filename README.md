@@ -1,4 +1,4 @@
-# Impact Attenuator Dynamic Analysis — SV Formula Electric Vehicle
+# Impact Attenuator Dynamic Analysis — SV  Electric Vehicle
 
 ## Overview
 Dynamic (explicit) FE analysis of the impact attenuator (crash energy absorber) designed for the SV Formula Student electric vehicle's front frame assembly. The analysis evaluates whether the attenuator meets the energy absorption and deceleration requirements specified by Formula Student structural rules.
